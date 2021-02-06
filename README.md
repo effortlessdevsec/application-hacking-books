@@ -1,1 +1,1 @@
-### books that help in bug bounty , web application , mobile applcation pentesting
+### books that help in bug bounty , web application , mobile application pentration testing
